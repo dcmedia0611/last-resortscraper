@@ -1,0 +1,6 @@
+git+https://github.com/Zulko/moviepy.git
+imageio-ffmpeg
+requests
+openai
+elevenlabs
+python-dotenv
